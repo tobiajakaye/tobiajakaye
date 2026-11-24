@@ -1,4 +1,4 @@
-# Hi, I'm Tobiloba 👋
+# Hey, I'm Tobiloba 🙋🏽‍♀️
 
 Computer Information Systems student at the University of Houston (Data Science minor), graduating May 2027.
 I build data and AI solutions: SQL analysis, Power BI dashboards, Python analytics, and AI agents.
