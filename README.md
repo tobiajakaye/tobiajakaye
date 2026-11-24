@@ -5,7 +5,6 @@ I build data and AI solutions: SQL analysis, Power BI dashboards, Python analyti
 
 ## About Me
 - 🌱 Currently learning: applying machine learning to real business problems (churn, forecasting, fraud detection)
-- 🏆 3rd place, Rice University Datathon
 - 💼 Past internships in data science, AI engineering, and solutions architecture
 - 💬 Ask me about: breaking into data and AI internships, Power BI, SQL, NSBE
 
